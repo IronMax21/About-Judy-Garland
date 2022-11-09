@@ -1,0 +1,39 @@
+body
+{
+  background-color: rgb(0, 247, 255);
+}
+#title
+{
+  font-size: 32px;
+}
+#about_judy
+{
+  color: rgb(255, 255, 255);
+  font-family: cursive;
+}
+#judy
+{
+  font-size: 12px;
+}
+#death
+{
+  font-size: small;
+}
+#Judy_singing
+{
+  border-radius: 20px;
+  background-color: aquamarine;
+  padding: 40px;
+  margin-left: 100;
+  margin-right: 100;
+}
+#facts-etc
+{
+  background-color: #8ab3ff;
+  font-family: cursive;
+  color: white;
+}
+#credits
+{
+  font-size: xx-small;
+}
